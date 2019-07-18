@@ -1,18 +1,19 @@
 var shoutouts = [
-  "You are so helpful and you are easy to talk to as a peer, rather than an IA.",
-  "Your determination! I remember that one time we were both struggling to make my project work but we got through it!! Thanks for always helping me out",
-  "thanks for helping me whenever I'm stuck",
-  "How helpful you are. Not only do you constantly help us but you help us figure it out on our own as well so we can use that method the next time.",
-  "You're so sweet!! I love your smile and laugh, and you are soooo cute! Thanks for always helping me too.",
-  "how comfortable it is to ask for and receive help from you!",
-  "You are so easy to talk to and you are such great help when I'm stuck.",
-  "how helpful you are and how great your explanations are (don't underestimate yourself!). How you always have a funny story to tell and a smile ready.",
-  "that you are always here to help people.",
-  "How helpful you are and that you made us feel welcome from the start!",
-  "Your enthusiasm and kindness and eagerness to help.",
-  "How you check up on us and make us feel included!",
-  "how patient you are and how much you are always willing to help.",
-  "You always take so much time to make sure that everyone’s problems are solved and your warm spirit is so wonderful to be around."
+  "You stay so positive and it's infectious!",
+  "You always the environment very positive, even if we are struggling to make our code work :)",
+  "you are always super patient when helping people and are a passionate instructor",
+  "how fun you make the lessons and how easy it is to ask you questions.",
+  "Your smile! And ability to teach things very well. Also how you bounce.",
+  "Your positivity and how fun and comfortable it is to talk to you!",
+  "your fun and positive personality! You make everything enjoyable!",
+  "how enthusiastic you are. The moment I saw your exuberant smile on the first day, I knew camp was going to be great and full of energy.",
+  "that positive you are all the time. It makes camp a funner place.",
+  "Your smile and how welcoming you are!",
+  "Is your unwavering positivity, both in solving technical problems and in everyday activities.",
+  "Your enthusiasm + willingness to help everyone!",
+  "how amazing listening to you teach is. You are such a bubbly, sweet, and kind teacher - one I wish I had in school. You are such an inspiration for me. I wish I could be as optimistic as you. Thanks for making my experience at Kode with Klossy one of the best summer camps I have ever gone to.",
+  "Your everyday happiness and excitement inspire me to keep working on my projects. Love that you say 'sweet' all the time, I think is sweet."
+  "You are one of the sweetest and most motivating person I have met! You make everyday at camp fun and I can’t thank you enough for making even the worst of problems enjoyable."
 ]
 
 for (x of shoutouts) {
