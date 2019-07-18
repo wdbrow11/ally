@@ -12,7 +12,8 @@ var shoutouts = [
   "Is your unwavering positivity, both in solving technical problems and in everyday activities.",
   "Your enthusiasm + willingness to help everyone!",
   "how amazing listening to you teach is. You are such a bubbly, sweet, and kind teacher - one I wish I had in school. You are such an inspiration for me. I wish I could be as optimistic as you. Thanks for making my experience at Kode with Klossy one of the best summer camps I have ever gone to.",
-  "Your everyday happiness and excitement inspire me to keep working on my projects. Love that you say 'sweet' all the time, I think is sweet."
+  "Your everyday happiness and excitement inspire me to keep working on my projects. Love that you say 'sweet' all the time, I think is sweet.",
+  "You are one of the sweetest and most motivating person I have met! You make everyday at camp fun and I can’t thank you enough for making even the worst of problems enjoyable."
 ]
 
 for (x of shoutouts) {
